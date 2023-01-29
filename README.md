@@ -1,6 +1,9 @@
 Introduction: 
 Simon is a classic memory game where the player needs to repeat the sequence of color displayed by the game. This Documentation will guide you through the proccess of creating a Simon game using the jQuery.
 
+visit site: 
+Click Here = https://simon-game03.netlify.app/
+
 Deoendencies:
 jQuery library - https://jquery.com/
 

@@ -4,7 +4,7 @@ Simon is a classic memory game where the player needs to repeat the sequence of 
 visit site: 
 Click Here = https://simon-game03.netlify.app/
 
-Deoendencies:
+Dependencies:
 jQuery library - https://jquery.com/
 
 HTML Structure: 
